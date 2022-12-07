@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mouse Logitech G203",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_790142-MLA45386898982_032021-F.webp",
+        "price": 195000,
+        "desc": "Mouse RGB Gamer con sensor Mercury"
+    },
+    {
+        "name": "Teclado Redragon Dragonic",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_619533-MLA46504109409_062021-O.webp",
+        "price": 200000,
+        "desc": "Teclado mecanico RGB Gamer con Switches Red"
+    },
+    {
+        "name": "Combo Gamer VSG Crux",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_952272-MCO46778684844_072021-O.webp",
+        "price": 155000,
+        "desc": "Combo de mouse, teclado y audifonos VSG."
+    },
+    {
+        "name": "Monitor Gamer LG",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_712666-MLA52219240284_102022-F.webp",
+        "price": 795000,
+        "desc": "Monitor 75Hz LG 22' "
+    },
+    {
+        "name": "Mouse Redragon Cobra",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_634424-MLA45375926732_032021-F.webp",
+        "price": 200000,
+        "desc": "Mouse RGB Gamer Redragon"
+    },
+    {
+        "name": "Combo Gamer VSG Crux",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_952272-MCO46778684844_072021-O.webp",
+        "price": 155000,
+        "desc": "Combo de mouse, teclado y audifonos RGB Gamer de la marca VSG."
+    }
+]

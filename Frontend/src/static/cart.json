@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mouse Logitech G203",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_790142-MLA45386898982_032021-F.webp",
+        "price": 195000,
+        "cant": 2
+    },
+    {
+        "name": "Teclado Redragon Dragonic",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_619533-MLA46504109409_062021-O.webp",
+        "price": 200000,
+        "cant": 1
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "idCliente": "CC45789",
+        "productos": [
+            {
+                "producto": "Mouse Logitech G203",
+                "cantidad": 2
+            },
+            {
+                "producto": "Teclado Redragon",
+                "cantidad": 1
+            }
+        ],
+        "total": 280000,
+        "fecha": "01/05/22"
+    },
+    {
+        "idCliente": "CC7898961",
+        "productos": [
+            {
+                "producto": "Monitor ABDC",
+                "cantidad": 1
+            }
+        ],
+        "total": 785000,
+        "fecha": "15/07/22"
+    },
+    {
+        "idCliente": "CC132568944",
+        "productos": [
+            {
+                "producto": "Mouse Logitech G203",
+                "cantidad": 1
+            },
+            {
+                "producto": "Mouse Redragon Cobra",
+                "cantidad": 3
+            }
+        ],
+        "total": 414000,
+        "fecha": "25/10/22"
+    }
+]
